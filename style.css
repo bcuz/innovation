@@ -48,7 +48,14 @@ body {
   text-transform: uppercase;
 }
 
-.btn:hover {
+.btn-learn {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 10px 40px;
+}
+
+.btn-learn:hover {
   background: #117bff;
   cursor: pointer;
   transition: background .5s;
