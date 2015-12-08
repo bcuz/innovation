@@ -71,6 +71,10 @@ body {
 
 
 /* Nav */
+.nav {
+  background-color: black;
+}
+
 .nav ul {
   list-style: none;
   margin: 0 auto;
@@ -90,9 +94,6 @@ body {
   transition: background .5s;
 }
 
-.nav {
-  background-color: black;
-}
 
 /* Main */
 .main .container {
