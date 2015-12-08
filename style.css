@@ -16,9 +16,15 @@ body {
 
 
 /* Header */
+
 .header {
   height: 800px;
   text-align: center;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg) center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .header .container {
