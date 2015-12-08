@@ -38,6 +38,7 @@ body {
   margin-top: 0;
   margin-bottom: 80px;
   text-transform: uppercase;
+  color: white;
 }
 
 @media (min-width:850px) {
@@ -52,6 +53,7 @@ body {
   margin-bottom: 40px;
   margin-top: 0;
   text-transform: uppercase;
+  color: white;
 }
 
 .btn-learn {
