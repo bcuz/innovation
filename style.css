@@ -45,6 +45,7 @@ body {
   letter-spacing: 8px;
   margin-bottom: 40px;
   margin-top: 0;
+  text-transform: uppercase;
 }
 
 .btn:hover {
