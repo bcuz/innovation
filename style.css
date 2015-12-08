@@ -78,6 +78,13 @@ body {
   text-align: center;
 }
 
+.nav li {
+  display: inline;
+}
+
+.nav {
+  background-color: black;
+}
 
 /* Main */
 .main .container {
