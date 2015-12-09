@@ -115,6 +115,7 @@ img {
 .jumbotron {
   height: 600px;
   text-align: right;
+  margin-top: 150px;
 }
 
 .jumbotron .container {
