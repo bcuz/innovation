@@ -54,14 +54,14 @@ body {
   color: white;
 }
 
-.btn-learn {
+.btn {
   text-decoration: none;
   background-color: black;
   color: white;
   padding: 10px 40px;
 }
 
-.btn-learn:hover {
+.btn:hover {
   background: #117bff;
   cursor: pointer;
   transition: background .5s;
