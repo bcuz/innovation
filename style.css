@@ -98,6 +98,10 @@ body {
   margin: 80px auto;
 }
 
+.main {
+  height: 300px;
+}
+
 img {
   width: 200px;
   float: left;
@@ -115,7 +119,9 @@ img {
 .jumbotron {
   height: 600px;
   text-align: right;
-  margin-top: 150px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg);
+  background-position: center center;
+  background-size: cover;
 }
 
 .jumbotron .container {
