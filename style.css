@@ -124,6 +124,15 @@ img {
   background-size: cover;
 }
 
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron p {
+  color: white;
+  margin-bottom: 30px;
+}
+
 .jumbotron .container {
   position: relative;
   top: 220px;
