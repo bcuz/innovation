@@ -142,7 +142,13 @@ img {
 
 /* Footer */
 .footer {
-  font-size: 14px;
+  height: 80px;
+  background-color: black;
+  color: white;
+}
+
+.footer .container {
+  /*margin-top: 50px;*/
 }
 
 /* Media Queries */
@@ -159,4 +165,10 @@ img {
   .main img {
     /*width: 100%;*/
   }
+}
+
+.footer p {
+  display: inline-block;
+  margin-top: 30px;
+  font-size: 14px;
 }
