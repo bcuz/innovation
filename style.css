@@ -152,9 +152,11 @@ body {
   }
 
   .main img {
+    /* This code is there to throw you off it seems like */
     /*width: 100%;*/
     float: none;
     display: block;
+    /* Bottom 50px margin remains from previous rule*/
     margin-left: auto;
     margin-right: auto;
     margin-top: 125px;
