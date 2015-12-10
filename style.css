@@ -85,12 +85,6 @@ body {
   padding: 30px 10px;
 }
 
-.nav li:hover {
-  background: #117bff;
-  cursor: pointer;
-  transition: background .5s;
-}
-
 
 /* Main */
 .main .container {
