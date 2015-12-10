@@ -21,6 +21,7 @@ body {
   height: 800px;
   text-align: center;
   background: url(https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg);
+  background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
