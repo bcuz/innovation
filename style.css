@@ -107,7 +107,7 @@ body {
 .jumbotron {
   height: 600px;
   text-align: right;
-  background: url(https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg);
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/jumbotron_bg.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
 }
